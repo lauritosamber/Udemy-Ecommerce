@@ -8,7 +8,7 @@
     "start": "nodemon app.js",
     "start-server": "node app.js"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "Mc Roniel De Gozo",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.3"
